@@ -17,3 +17,30 @@
     4.Deploy the frontend application by pointing the build-source to the current directory.
     
         ibmcloud ce application create --name frontend --image us.icr.io/fontend --registry-secret ic-secret -port 5001 --build-source .
+
+1. Product Details Deployment
+   ![Product Details Deployment](screenshots/1_product_details_deploy.png)
+
+2. Dealer Details Deployment
+   ![Dealer Details Deployment](screenshots/2_dealer_details_deploy.png)
+
+3. Git Clone
+   ![Git Clone](screenshots/3_git_clone.png)
+
+4. Index URL Changes
+   ![Index URL Changes](screenshots/4_index_urlchanges.png)
+
+5. Frontend Deployment
+   ![Frontend Deployment](screenshots/5_frontend_deploy.png)
+
+6. Homepage
+   ![Homepage](screenshots/6_homepage.png)
+
+7. Product Dealer
+   ![Product Dealer](screenshots/7_product_dealer.png)
+
+8. Product Dealer Price
+   ![Product Dealer Price](screenshots/8_product_dealer_price.png)
+
+9. Product All Dealers Prices
+   ![Product All Dealers Prices](screenshots/9_product_all_dealers_prices.png)
